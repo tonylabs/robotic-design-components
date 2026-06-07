@@ -1,0 +1,8 @@
+# macOS Finder
+.DS_Store
+
+# SolidWorks lock/temp files (created while a part is open)
+~$*
+
+# Claude
+/.claude
